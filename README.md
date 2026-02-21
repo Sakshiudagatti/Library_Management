@@ -1,7 +1,4 @@
-[2:30 PM, 2/21/2026] +91 84312 58585: Assessment Link : https://docs.google.com/forms/d/e/1FAIpQLSdJaN7LnT6rz3aiTerMMkXLQtOf6Qs0bny-rbqShWqAD99BKQ/viewform?usp=header
-[2:32 PM, 2/21/2026] +91 84312 58585: the one uploaded the projects on their github link plz  try to take the test
-Lbrary Management System API
-[2:37 PM, 2/21/2026] +91 84312 58585: # 📚 Library CRUD UI - Django Management System
+ 📚 Library CRUD UI - Django Management System
 
 A robust Library Management System built with *Django*, featuring a dual-architecture approach. This project demonstrates how to handle book data using traditional Django templates and modern RESTful APIs, all wrapped in a custom "Binary/Matrix" themed interface.
 
